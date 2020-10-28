@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322727375500",
+    "firebase_url": "https://translation-af840.firebaseio.com",
+    "project_id": "translation-af840",
+    "storage_bucket": "translation-af840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322727375500:android:8ab3e4179d66d676",
+        "android_client_info": {
+          "package_name": "talko.talko_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322727375500-omuho653avg437knlu28qdm0q72f0s3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0L0g9eAMOGET1T0vzF9yKW3cmq7LCWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322727375500-omuho653avg437knlu28qdm0q72f0s3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
