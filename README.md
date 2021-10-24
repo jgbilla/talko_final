@@ -1,16 +1,5 @@
 # talko_final
 
-A new Flutter application.
+Talko allows you to learn languages by using the visual capabilities of your brain. On Talko, you can take the picture of any object, and have the name of the object translated in a desired language. The name of the object and the translation will then be saved to your word list. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
